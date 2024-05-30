@@ -3,7 +3,7 @@ Swizzle was a fully browser-based service for building full stack apps. The comp
 
 Some features we were proud of
 - One click deployment of a NodeJS backend and React frontend
-- An in browser IDE with a language server, step through debugging, streaming logs, and AI code complete
+- An in browser IDE with a language server, step through debugging, logs, a postman-style request tester, and AI code complete
 - Drop in authentication, file storage, and a MongoDB database
 - Slick logs with the full body, headers, and logs for every request
 - Shared types between the frontend and the backend, making debugging much easier
