@@ -9,3 +9,5 @@ Some features we were proud of
 - Shared types between the frontend and the backend, making debugging much easier
 - Scheduled functions, autoscaling, HTTPS, and other niceties for developers
 - An AI assistant that could build multiple endpoints and frontend pages at the same time from simple prompts and figma designs
+
+You can see a fun launch video we made [here](https://www.youtube.com/watch?v=1UPJvjx1EOI)
